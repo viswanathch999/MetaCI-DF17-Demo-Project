@@ -1,0 +1,11 @@
+{
+  "orgName": "MetaCI-DF17-Demo-Project - Release Test Org",
+  "edition": "Enterprise",
+  "orgPreferences" : {
+    "enabled": [
+      "S1DesktopEnabled",
+      "Translation",
+      "ChatterEnabled" 
+    ]
+  }
+}

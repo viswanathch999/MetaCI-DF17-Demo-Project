@@ -1,0 +1,11 @@
+{
+  "orgName": "MetaCI-DF17-Demo-Project - Dev Workspace",
+  "edition": "Developer",
+  "orgPreferences" : {
+    "enabled": [
+      "S1DesktopEnabled",
+      "Translation",
+      "ChatterEnabled"
+    ]
+  }
+}
