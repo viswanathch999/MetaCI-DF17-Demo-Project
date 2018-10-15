@@ -1,10 +1,10 @@
 project:
-    name: MetaCI-DF17-Demo-Project
+    name: qentelli
     package:
-        name: MetaCI-DF17-Demo-Project
-        namespace: metaci_df17t1
+        name: qentelli
+        namespace: qentelli-123
     dependencies:
-        - github: https://github.com/SalesforceFoundation/HEDAP
+            - github: https://github.com/viswanathch999/MetaCI-DF17-Demo-Project.git
 orgs:
     scratch:
         dev_namespaced:
